@@ -1,5 +1,4 @@
 #Autor: Alejandro Torices Oliva
-
 #Ejemplos de uso de funciones
 
 import turtle               #Importa una librería
